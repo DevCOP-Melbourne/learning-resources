@@ -4,6 +4,7 @@
 - [DevCOP](https://www.meetup.com/DevCoP-Melbourne/)
 - [AWS Programming and Tools](https://www.meetup.com/Melbourne-AWS-Programming-and-Tools-Meetup/)
 - [DDDMelbourne](https://www.dddmelbourne.com/)
+- [DDDSydney](https://www.dddsydney.com.au/)
 
 ## Books
 - [Soft Skills: The Software Developer's Life Manual](https://www.amazon.com/Soft-Skills-Software-Developers-Manual/dp/B0158SJ3EM)
