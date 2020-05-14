@@ -3,6 +3,11 @@
 ## Meetups
 - [DevCOP](https://www.meetup.com/DevCoP-Melbourne/)
 - [AWS Programming and Tools](https://www.meetup.com/Melbourne-AWS-Programming-and-Tools-Meetup/)
+- [DDD Melbourne](https://dddmelbourne.com/)
+- [DDD Syndey](https://www.dddsydney.com.au/)
+- [NDC Sydney](https://ndcsydney.com/)
+- [NDC Melbourne](https://ndcmelbourne.com/)
+
 ## Books
 - [Soft Skills: The Software Developer's Life Manual](https://www.amazon.com/Soft-Skills-Software-Developers-Manual/dp/B0158SJ3EM)
 - [Girl Code](https://www.amazon.com.au/Girl-Code/dp/B01N2R1RCQ)
