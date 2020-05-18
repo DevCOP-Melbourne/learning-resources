@@ -23,6 +23,9 @@
 ## Open source projects
 - [Code Mentoring's Learning platform](https://github.com/code-mentoring/learn): Full stack project that simulates the structuring of a real-life development project. In addition to providing the possibility of learning the used technologies and tools (React, GraphQL, Git, etc), it also provides the ability to get in touch with the operation of a project and the interactions between the participants.
 
+## Create your own website
+
+See [here](/create-your-own-website/README.md) how to create your own website for free hosted on Github Pages.
 ## DevCop Mobbing
 
 ## Other
