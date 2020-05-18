@@ -1,5 +1,7 @@
 # Make your own website
 
+This tutorial will walk you through the steps to create your own website hosted on Github Pages.
+
 1. Visit:  https://pages.github.com/
     ![Github Pages](Picture_1.png "Github pages")
 2. In the same tab Visit:  https://github.com/new
