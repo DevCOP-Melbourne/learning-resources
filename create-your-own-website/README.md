@@ -5,11 +5,10 @@ This tutorial will walk you through the steps to create your own website hosted 
 1. Visit:  https://pages.github.com/
     ![Github Pages](Picture_1.png "Github pages")
 2. In the same tab Visit:  https://github.com/new
-    ![Create repository](Picture_2.png "Create repository")
 3. Choose a “Repository Name” this will form part of the URL.
 4. Ensure “Initialize this repository with a `README.md`” is selected.
 5. It should look like the image below:
-    ![Created repo](Picture_3.png "Created repo")
+    ![Create repository](Picture_2.png "Create repository")
 6. Scroll down to “GitHub Pages”, change source to “Master Branch”
         ![Created repo](Picture_4.png)
 7. The page will reload, scroll down again to “Themes” then click “Choose a Theme”. From here you can choose a theme:
